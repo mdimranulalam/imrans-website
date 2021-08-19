@@ -42,3 +42,10 @@ h1{
     background-repeat: no-repeat;
     background-position: right;    
 }
+
+#sp{
+    color:rgb(247, 127, 58);
+    text-align: center;
+    font-weight: 700;
+    font-size: 30px;
+}
